@@ -1,0 +1,9 @@
+{
+	"id": "AppStore",
+	"name": "Application Store",
+	"description": "Application Store",
+	"version": "0.1",
+	"author": "Parity Technologies Ltd",
+	"iconUrl": "title.png",
+	"localUrl": "http://localhost:3006"
+}
